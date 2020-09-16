@@ -71,7 +71,6 @@ def format_footer(campus)
 end
 
 def print_newsletter(number)
-  # binding.pry
   puts "Generating this week's newsletter...\n\n"
 
   print "SUBJECT: "
